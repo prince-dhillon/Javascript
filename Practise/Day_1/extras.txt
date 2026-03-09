@@ -1,0 +1,3 @@
+.split(" ") converts string into array.
+.reverse() reverses array while changing original array.
+.toReversed() doesn't modifies original list.
